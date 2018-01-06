@@ -1,0 +1,19 @@
+{
+  "name": "mandalai-mock-data",
+  "version": "1.0.0",
+  "description": "mock data for the ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandalai/Mandalai-Mock-Data.git"
+  },
+  "author": "rocky xu & veer singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandalai/Mandalai-Mock-Data/issues"
+  },
+  "homepage": "https://github.com/Mandalai/Mandalai-Mock-Data#readme"
+}
